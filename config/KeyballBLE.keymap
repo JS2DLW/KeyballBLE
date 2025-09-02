@@ -57,6 +57,11 @@
             bindings = <&kp RC(RA(DELETE))>;
             key-positions = <30 31 32>;
         };
+
+        LINEenter {
+            bindings = <&kp RS(ENTER)>;
+            key-positions = <18 19>;
+        };
     };
 
     macros {
